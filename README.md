@@ -1,3 +1,5 @@
+![Cyfrownia](docs/baner.png)
+
 # Jacek Zielke
 
 **AI Systems Builder · Automation Architect · Technical Founder**
@@ -44,4 +46,4 @@ Python · React 19 · Vite · PostgreSQL · n8n · OpenRouter (Claude, GPT, Gemi
 
 ---
 
-📍 Grudziądz, Polska · [cyfrownia.com](https://cyfrownia.com) · [biuro@cyfrownia.com](mailto:biuro@cyfrownia.com)
+📍 Grudziądz, Polska · [cyfrownia.com](https://cyfrownia.com) · [biuro@cyfrownia.com](mailto:biuro@cyfrownia.com) · [LinkedIn](https://www.linkedin.com/company/cyfrownia)
