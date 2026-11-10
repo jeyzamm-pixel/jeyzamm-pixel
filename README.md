@@ -29,14 +29,14 @@ Założyciel [Cyfrowni](https://cyfrownia.com), agencji AI z Grudziądza.
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/jeyzamm-pixel/dexter-command-center"><img src="docs/karty/dexter-command-center.jpg" width="100%" alt="D.E.X.T.E.R. Command Center"></a>
+<a href="https://github.com/jeyzamm-pixel/dexter-command-center"><img src="docs/karty/dexter-command-center.jpg" width="400" alt="D.E.X.T.E.R. Command Center"></a>
 <h3><a href="https://github.com/jeyzamm-pixel/dexter-command-center">D.E.X.T.E.R. Command Center</a></h3>
 Panel dowodzenia firmą z asystentem głosowym w centrum. Decyzje zamiast powiadomień.<br>
 <sub><i>Command center with a voice assistant at its core.</i></sub><br><br>
 <img src="https://img.shields.io/badge/React_19-021836?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Vite-021836?style=flat-square&logo=vite&logoColor=FFD62E"> <img src="https://img.shields.io/badge/PWA-021836?style=flat-square&logo=pwa&logoColor=white">
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/jeyzamm-pixel/agent-crew-orchestrator"><img src="docs/karty/agent-crew-orchestrator.jpg" width="100%" alt="Agent Crew Orchestrator"></a>
+<a href="https://github.com/jeyzamm-pixel/agent-crew-orchestrator"><img src="docs/karty/agent-crew-orchestrator.jpg" width="400" alt="Agent Crew Orchestrator"></a>
 <h3><a href="https://github.com/jeyzamm-pixel/agent-crew-orchestrator">Agent Crew Orchestrator</a></h3>
 55 agentów na serwerze, jeden dyspozytor, pilnowanie budżetu i izolacja kluczy.<br>
 <sub><i>55 scheduled agents, one dispatcher, budget guard, key isolation.</i></sub><br><br>
@@ -45,14 +45,14 @@ Panel dowodzenia firmą z asystentem głosowym w centrum. Decyzje zamiast powiad
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/jeyzamm-pixel/ai-prototype-builder"><img src="docs/karty/ai-prototype-builder.jpg" width="100%" alt="AI Prototype Builder"></a>
+<a href="https://github.com/jeyzamm-pixel/ai-prototype-builder"><img src="docs/karty/ai-prototype-builder.jpg" width="400" alt="AI Prototype Builder"></a>
 <h3><a href="https://github.com/jeyzamm-pixel/ai-prototype-builder">AI Prototype Builder</a></h3>
 Firma na wejściu, działający prototyp strony z czatem, kreatorem wyceny i asystentem głosowym na wyjściu.<br>
 <sub><i>Company in, working website prototype with chat, quote wizard and voice demo out.</i></sub><br><br>
 <img src="https://img.shields.io/badge/JavaScript-021836?style=flat-square&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/GSAP-021836?style=flat-square&logo=greensock&logoColor=88CE02"> <img src="https://img.shields.io/badge/Playwright-021836?style=flat-square&logo=googlechrome&logoColor=white">
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/jeyzamm-pixel/client-acquisition-pipeline"><img src="docs/karty/client-acquisition-pipeline.jpg" width="100%" alt="Client Acquisition Pipeline"></a>
+<a href="https://github.com/jeyzamm-pixel/client-acquisition-pipeline"><img src="docs/karty/client-acquisition-pipeline.jpg" width="400" alt="Client Acquisition Pipeline"></a>
 <h3><a href="https://github.com/jeyzamm-pixel/client-acquisition-pipeline">Client Acquisition Pipeline</a></h3>
 Research, ocena leadów, prototyp, wizyta, oferta. Zaprojektowany pod prawo: zero zimnego kontaktu.<br>
 <sub><i>Research, lead scoring, prototype, visit, offer. Designed around the law.</i></sub><br><br>
@@ -61,14 +61,14 @@ Research, ocena leadów, prototyp, wizyta, oferta. Zaprojektowany pod prawo: zer
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/jeyzamm-pixel/content-engine"><img src="docs/karty/content-engine.jpg" width="100%" alt="Content Engine"></a>
+<a href="https://github.com/jeyzamm-pixel/content-engine"><img src="docs/karty/content-engine.jpg" width="400" alt="Content Engine"></a>
 <h3><a href="https://github.com/jeyzamm-pixel/content-engine">Content Engine</a></h3>
 Marketing na autopilocie z sędzią jakości, zgodą przez odcisk treści i strażnikiem publikacji.<br>
 <sub><i>Autonomous marketing with a quality judge and fingerprinted approvals.</i></sub><br><br>
 <img src="https://img.shields.io/badge/n8n-021836?style=flat-square&logo=n8n&logoColor=EA4B71"> <img src="https://img.shields.io/badge/Meta_API-021836?style=flat-square&logo=meta&logoColor=4cc8f5"> <img src="https://img.shields.io/badge/Python-021836?style=flat-square&logo=python&logoColor=4cc8f5">
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/jeyzamm-pixel/assistant-engine"><img src="docs/karty/assistant-engine.jpg" width="100%" alt="Assistant Engine"></a>
+<a href="https://github.com/jeyzamm-pixel/assistant-engine"><img src="docs/karty/assistant-engine.jpg" width="400" alt="Assistant Engine"></a>
 <h3><a href="https://github.com/jeyzamm-pixel/assistant-engine">Assistant Engine</a></h3>
 Jeden silnik dla czatbotów i asystentów głosowych wielu firm. Reguły pilnowane w czterech warstwach.<br>
 <sub><i>One engine for many companies' chat and voice assistants.</i></sub><br><br>
@@ -76,16 +76,14 @@ Jeden silnik dla czatbotów i asystentów głosowych wielu firm. Reguły pilnowa
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-<table><tr>
-<td width="50%"><a href="https://github.com/jeyzamm-pixel/family-organizer-app"><img src="docs/karty/family-organizer-app.jpg" width="100%" alt="Family Organizer App"></a></td>
-<td width="50%" valign="middle">
+<td width="50%" valign="top">
+<a href="https://github.com/jeyzamm-pixel/family-organizer-app"><img src="docs/karty/family-organizer-app.jpg" width="400" alt="Family Organizer App"></a>
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/jeyzamm-pixel/family-organizer-app">Family Organizer App</a></h3>
 Aplikacja dla rodziny z dwoma domami: kalendarz opieki, gra w obowiązki, paragony czytane przez AI, przypomnienia push. <b>Używana codziennie.</b><br>
 <sub><i>Family app for two homes. Used daily.</i></sub><br><br>
 <img src="https://img.shields.io/badge/PWA-021836?style=flat-square&logo=pwa&logoColor=white"> <img src="https://img.shields.io/badge/Web_Push-021836?style=flat-square&logo=googlechrome&logoColor=white">
-</td>
-</tr></table>
 </td>
 </tr>
 </table>
