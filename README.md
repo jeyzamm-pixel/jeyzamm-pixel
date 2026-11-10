@@ -34,6 +34,7 @@ I build AI systems that run a small business end to end: client acquisition, pro
 | [Client Acquisition Pipeline](https://github.com/jeyzamm-pixel/client-acquisition-pipeline) | Research, scoring leadów, prototyp, wizyta, oferta. Zaprojektowany pod prawo, bez zimnego kontaktu. Research, lead scoring, prototype, visit, offer. Designed around the law: no cold outreach. |
 | [Content Engine](https://github.com/jeyzamm-pixel/content-engine) | Autonomiczny marketing z sędzią jakości, zgodą przez odcisk treści i strażnikiem publikacji. Autonomous marketing with a quality judge, fingerprinted approvals and a publishing watchdog. |
 | [Assistant Engine](https://github.com/jeyzamm-pixel/assistant-engine) | Jeden silnik promptów dla czatbotów i asystentów głosowych wielu firm, z regułami egzekwowanymi w czterech warstwach. One prompt engine for many companies' chat and voice assistants, rules enforced in four layers. |
+| [Family Organizer App](https://github.com/jeyzamm-pixel/family-organizer-app) | Aplikacja dla rodziny z dwoma domami: kalendarz opieki, gra w obowiązki, paragony odczytywane przez AI, przypomnienia push. Używana codziennie. Family app for two homes: custody calendar, chores game, AI receipts, push reminders. Used daily. |
 
 Kod produkcyjny jest prywatny (dane klientów i infrastruktura). Repozytoria powyżej to wizytówki: architektura, decyzje projektowe, wybrane fragmenty kodu.
 Production code is private (client data and infrastructure). The repositories above are showcases: architecture, design decisions, selected code.
@@ -46,4 +47,4 @@ Python · React 19 · Vite · PostgreSQL · n8n · OpenRouter (Claude, GPT, Gemi
 
 ---
 
-📍 Grudziądz, Polska · [cyfrownia.com](https://cyfrownia.com) · [biuro@cyfrownia.com](mailto:biuro@cyfrownia.com) · [LinkedIn](https://www.linkedin.com/company/cyfrownia)
+📍 Grudziądz, Polska · [cyfrownia.com](https://cyfrownia.com) · [Jacek osobiście](https://cyfrownia.com/jacekzielke/) · [biuro@cyfrownia.com](mailto:biuro@cyfrownia.com) · [LinkedIn](https://www.linkedin.com/company/cyfrownia)
