@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+  <style>
+    .t { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    .n { font-size: 46px; font-weight: 700; fill: #0A95C9; }
+    .o { fill: #FC6E08; }
+    .l { font-size: 15px; fill: #8aa4bd; }
+    .c { opacity: 0; animation: in .7s ease-out forwards; }
+    .c2 { animation-delay: .2s } .c3 { animation-delay: .4s } .c4 { animation-delay: .6s }
+    @keyframes in { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+    @media (prefers-reduced-motion: reduce) { .c { animation: none; opacity: 1 } }
+  </style>
+  <rect width="1200" height="150" rx="16" fill="#021836"/>
+  <g class="t">
+    <g class="c"><text class="n" x="150" y="80" text-anchor="middle">55</text><text class="l" x="150" y="112" text-anchor="middle">agentów AI w jednym rejestrze</text></g>
+    <line x1="300" y1="38" x2="300" y2="112" stroke="#0A95C9" stroke-opacity=".25"/>
+    <g class="c c2"><text class="n" x="450" y="80" text-anchor="middle">450<tspan class="o">+</tspan></text><text class="l" x="450" y="112" text-anchor="middle">commitów panelu dowodzenia</text></g>
+    <line x1="600" y1="38" x2="600" y2="112" stroke="#0A95C9" stroke-opacity=".25"/>
+    <g class="c c3"><text class="n" x="750" y="80" text-anchor="middle">28</text><text class="l" x="750" y="112" text-anchor="middle">prototypów stron z jednego szablonu</text></g>
+    <line x1="900" y1="38" x2="900" y2="112" stroke="#0A95C9" stroke-opacity=".25"/>
+    <g class="c c4"><text class="n" x="1050" y="80" text-anchor="middle">4</text><text class="l" x="1050" y="112" text-anchor="middle">warstwy pilnowania reguł AI</text></g>
+  </g>
+</svg>
